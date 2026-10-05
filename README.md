@@ -15,5 +15,5 @@ The installed app fetches updates from
 without any credentials.
 
 **This is not the source repository.** Source code, issues, and development
-live in the private repository [datawarsaw/rate-limits](https://github.com/datawarsaw/rate-limits).
+live in the public repository [datawarsaw/limitscope](https://github.com/datawarsaw/limitscope).
 Nothing else belongs here.
